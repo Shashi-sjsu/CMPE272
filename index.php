@@ -13,12 +13,12 @@ if (!isset($_SESSION["authenticated"]) || $_SESSION["authenticated"] !== true) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shreek's Cloud8Kit</title>
+    <title>ShashiTech</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Cloud8Kit</h1>
+        <h1>ShashiTECH</h1>
         <nav>
             <ul>
                 <li><a href="?page=home">Home</a></li>
